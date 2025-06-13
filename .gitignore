@@ -1,0 +1,7 @@
+kanban-backend/venv/
+kanban-frontend/node_modules/
+kanban-frontend/dist/
+sistema-kanban-completo-final.tar.gz
+.local/
+
+
