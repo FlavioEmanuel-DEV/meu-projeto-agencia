@@ -1,0 +1,5 @@
+browser-port: '9222'
+pull: true
+push: false
+s3-get-url: https://vida-private.s3.us-east-1.amazonaws.com/browser_data/310419663032403233/Brs69WgiNc9WEAAGqT8sVU.json?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAZV3A2ECZOFHVT4UV%2F20250613%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250613T173818Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&x-id=GetObject&X-Amz-Signature=1195227c3c80d7f4281fc5bd301acd0340de3932b825efb11946af1a8e2401ee
+s3-put-url: https://vida-private.s3.us-east-1.amazonaws.com/browser_data/310419663032403233/Brs69WgiNc9WEAAGqT8sVU.json?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAZV3A2ECZOFHVT4UV%2F20250613%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250613T173818Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&x-id=PutObject&X-Amz-Signature=720733e15d19edc36dbc473275c52c8b7959a8a9d80bfc911cc9aa97979c27b0
